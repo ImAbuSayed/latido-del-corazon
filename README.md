@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latido-del-corazon/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Latido del corazón](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latido-del-corazon/) |
+| **Get License** | [Official Music Licensing for Latido del corazón](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latido-del-corazon/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Late night, city lights, your body's calling me
+> That perfume in the air, it got me on my knees
+> Your hips moving slow, a rhythm I can't fight
+> Latido del corazón, we'll burn until the light
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
