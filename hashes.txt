@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Latido del corazón
+
+This log tracks the cryptographic history and versioning for the song **Latido del corazón** (latido-del-corazon).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T05:45:14.346307 | `v1` | `82a89a2be53c39da197dc9f8b53b32c6aea62b8e6de181816cc5f866e3798bd1` | `135fef8316af1012ef4e19acc4caefe7e6692d93ada1c2c6ddc3fc4e311cdcef` | `2026-06-23_latido-del-corazon-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
